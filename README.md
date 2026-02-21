@@ -22,7 +22,7 @@ Fully client-side: works in any modern browser
 
 Clone the repo:
 
-git clone https://github.com/ashwin123-git/Terminal-HTML.git
+git clone https://github.com/ashwin123-git/Terminal.git
 
 Open index.html in any modern browser.
 
